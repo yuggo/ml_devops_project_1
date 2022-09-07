@@ -7,7 +7,11 @@ This set of libraries runs two machine learning models (Random Forest and Logist
 
 ## Files and data description
 churn_library.py - includes all necessary functions and can be run from command line \
-churn_script_logging_and_tests.py - runs all tests and logs results
+churn_script_logging_and_tests.py - runs all tests and logs results \
+data - has the csv data file \
+images - output for exploratory data analysis and final model results pictures \
+logs - logs testing output \
+models - saves model files
 
 ## Running Files
 python churn_library.py \
