@@ -11,7 +11,8 @@ churn_script_logging_and_tests.py - runs all tests and logs results \
 data - has the csv data file \
 images - output for exploratory data analysis and final model results pictures \
 logs - logs testing output \
-models - saves model files
+models - saves model files \
+requirements.txt - has all required python libraries for the model pipeline 
 
 ## Running Files
 python churn_library.py \
