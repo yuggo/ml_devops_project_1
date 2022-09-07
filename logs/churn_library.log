@@ -1,0 +1,13 @@
+root - INFO - Testing import_data: SUCCESS
+root - INFO - Testing EDA Folder Has Files
+root - INFO - Testing EDA Emptying Files: SUCCESS
+root - INFO - Testing EDA Exploratory Data Analysis: SUCCESS
+root - INFO - Testing Encoding: SUCCESS RUNNIN ENCODER HELPER - 				encoder_helper(df, cat_columns, 'cat'
+root - INFO - Testing Encoding: SUCCESS RUNNIN ENCODER HELPER - 				encoder_helper(df, cat_columns)
+root - INFO - Testing Encoding: SUCCESS RUNNIN ENCODER HELPER - 				encoder_helper(df, [])
+root - INFO - Testing Feature Engineering: SUCCESFUL RUNNING perform_feature_engineering(...))
+root - INFO - Testing Model Results Folder Has Files
+root - INFO - Testing Model Results Emptying Files: SUCCESS
+root - INFO - Testing Model Results: SUCCESS
+root - INFO - Testing Model Results - images: SUCCESS
+root - INFO - Testing Model Results - model files: SUCCESS
