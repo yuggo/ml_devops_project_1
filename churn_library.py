@@ -2,6 +2,9 @@
 '''
 Machine Learning Pipeline Library for
 Project 1 of Machine Learning Dev Ops
+
+Author: Denis V.
+Date: September 7th 2022
 '''
 
 # import libraries
